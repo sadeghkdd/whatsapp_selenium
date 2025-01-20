@@ -1,0 +1,4 @@
+# WhatsApp Automation Program
+
+This is a program for automating tasks on WhatsApp using Selenium.
+ It allows you to perform various actions such as sending messages to specific users based on their names.
